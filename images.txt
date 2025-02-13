@@ -5,3 +5,5 @@ xhofe/alist-aria2
 btpanel/baota
 btpanel/baota:latest
 btpanel/baota:7.9.4-lnmp
+centos:centos7.9.2009
+centos
